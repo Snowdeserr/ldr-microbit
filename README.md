@@ -22,3 +22,11 @@ Um dieses Repository in MakeCode zu bearbeiten.
 
 * for PXT/microbit
 <script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
+
+
+
+
+## Stecken // Löten
+
+![image](https://github.com/Snowdeserr/ldr-microbit/assets/138176996/1b4bfcc1-d5f9-4a4b-9095-b8f6a51a383f)
+
